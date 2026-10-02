@@ -1,0 +1,4 @@
+cellpose
+numpy
+opencv-python-headless
+tifffile

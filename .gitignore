@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+cell_count.ipynb
+
+# Local run outputs
+outputs/
+data/
+Temp/
