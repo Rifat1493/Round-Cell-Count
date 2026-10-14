@@ -1,0 +1,6 @@
+---
+description: Naming convention - no leading underscores
+alwaysApply: true
+---
+
+Never name functions, methods, classes, variables, parameters, loop variables, or module attributes with a leading underscore (including a bare `_` placeholder). Use descriptive names instead, e.g. `for step in range(n)` and `count, labels = cv2.connectedComponents(...)`.

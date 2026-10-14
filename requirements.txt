@@ -1,4 +1,7 @@
 cellpose
 numpy
 opencv-python-headless
+openpyxl
+pandas
 tifffile
+torch
